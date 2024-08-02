@@ -10,7 +10,7 @@ main:
   #   url: /portfolio/
 
   - title: '技术文章'
-    url: /year-archive/
+    url: /techs/
 
   - title: '常用工具安装指南'
     url: /tools/
