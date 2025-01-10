@@ -21,7 +21,7 @@ repository: 'clap-top/clap-top.github.io'
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: 'profile.png'
+  avatar: 'profile.webp'
   name: ''
   pronouns: # example: "she/her"
   bio: '自建服务，简单指南，助您快速搭建！'
